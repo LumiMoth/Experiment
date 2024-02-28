@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Nomad",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Sacae",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
